@@ -1,11 +1,13 @@
 # streamlit
 This repository purpose is to study Basic learning of Streamlit
 
-## Intrduction
+## Introduction
 
 Streamlit is a tool/library python that make easy deployement of Machine Learning models and data science projects light web application.
 
 You can find more information here : https://www.streamlit.io/
+
+**Don't seem to work with python 3.8**
 
 ## Installation
 
